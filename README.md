@@ -1,6 +1,8 @@
 # ur.df
 Augmented Dickey-Fuller Test Unit Root Test Use ur.df (urca) With (In) R Software
 
+https://www.youtube.com/watch?v=qoLgA4CATE8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
